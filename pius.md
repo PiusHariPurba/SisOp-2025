@@ -22,9 +22,6 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 </div>
 
 ## 1. Basis Bilangan
-
-
-## 1. Basis Bilangan
   ```
   1. bilangan yang dipakai biner adalah bilangan yang berbasis 2
   ```
