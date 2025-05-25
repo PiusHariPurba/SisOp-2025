@@ -2,7 +2,7 @@
 
 # TUGAS SISTEM OPERASI
 
-## **SISTEM BILANGAN**
+## **FORK**
 
 ![Pens Logo](https://belajargiat.id/wp-content/uploads/2020/10/logo-PENS.png)
 
