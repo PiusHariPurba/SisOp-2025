@@ -2,16 +2,15 @@
 
 # TUGAS SISTEM OPERASI
 
-## **SISTEM BILANGAN**
+## **FORK**
 
-![Pens Logo](https://belajargiat.id/wp-content/uploads/2020/10/logo-PENS.png)
+![Image](https://github.com/user-attachments/assets/3ad88b6e-7159-44a2-a004-c909b974a88c)
 
-**Dosen Pengampu:**
+**Dosen Pengampu:**  
+Dr. Ferry Astika Saputra, S.T., M.Sc.  
+(197708232001121002)
 
-Dr. Ferry Astika Saputra, S.T., M.Sc.
-
-**Disusun Oleh:**
-
+**Disusun Oleh:**  
 Pius Purba (3124521015)
 
 ## **PROGRAM STUDI D3 TEKNIK INFORMATIKA PSDKU LAMONGAN**  
@@ -20,6 +19,8 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 2025
 
 </div>
+
+---
 
 ## 1. Basis Bilangan
   ```
