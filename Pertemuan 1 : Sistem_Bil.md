@@ -2,7 +2,7 @@
 
 # TUGAS SISTEM OPERASI
 
-## **FORK**
+## **Sistem Bilangan**
 
 ![Image](https://github.com/user-attachments/assets/3ad88b6e-7159-44a2-a004-c909b974a88c)
 
