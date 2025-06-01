@@ -22,7 +22,6 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 
 ~~~
 
-```markdown
 # Evolusi Komputer
 
 Salah satu alasan untuk mempelajari arsitektur dan sistem operasi awal adalah bahwa fitur yang tadinya hanya dijalankan pada sistem besar pada akhirnya dapat diterapkan pada sistem yang sangat kecil. Memang benar, pengujian sistem operasi untuk mainframe dan mikrokomputer menunjukkan bahwa banyak fitur yang tadinya hanya tersedia pada mainframe telah diadopsi untuk mikrokomputer. Oleh karena itu, konsep sistem operasi yang sama sesuai untuk berbagai kelas komputer: mainframe, komputer mini, mikrokomputer, dan perangkat genggam. Untuk memahami sistem operasi modern, Anda perlu mengenali tema migrasi fitur dan sejarah panjang banyak fitur sistem operasi. Berikut sketsa perkembangan komputer dari tahun ke tahun.
