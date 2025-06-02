@@ -21,7 +21,7 @@ POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 </div>
 
 ---
-# 🚀 1. bench Util
+# 🚀 1.Bench Util
 
 🔧 secara sederhana sebenarnya fungsi bench util sendiri itu adalah untuk mengetes dan menguji performakomputer meliputi:
 - 🖥️ **cpu** 
@@ -122,5 +122,9 @@ $ flops64 $(nproc)
 
 # 📊 B. Laporan Performa laptop saya
 
-![Image](https://github.com/user-attachments/assets/eef630ed-4c16-4efe-92a3-313ce965c5
+<div align="center">
+  
+![Image](https://github.com/user-attachments/assets/82e07ce5-7ea1-46bc-b931-83c9ad7fd3ba)
+|
 ![Image](https://github.com/user-attachments/assets/6e134770-68bc-4276-96ba-eda2be4c8892)
+</div>
