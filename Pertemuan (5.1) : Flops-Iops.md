@@ -122,4 +122,5 @@ $ flops64 $(nproc)
 
 # 📊 B. Laporan Performa laptop saya
 
-📋 *[Bagian ini untuk hasil benchmark laptop Anda]*
+![Image](https://github.com/user-attachments/assets/eef630ed-4c16-4efe-92a3-313ce965c5
+![Image](https://github.com/user-attachments/assets/6e134770-68bc-4276-96ba-eda2be4c8892)
