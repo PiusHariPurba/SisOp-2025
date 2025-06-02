@@ -125,6 +125,8 @@ $ flops64 $(nproc)
 <div align="center">
   
 ![Image](https://github.com/user-attachments/assets/82e07ce5-7ea1-46bc-b931-83c9ad7fd3ba)
-|
+
+🟰
+
 ![Image](https://github.com/user-attachments/assets/6e134770-68bc-4276-96ba-eda2be4c8892)
 </div>
