@@ -148,6 +148,16 @@ P4(3) → P1(6) → P3(7) → P2(8)
 ```
 | P4 | P1 | P3 | P2 |
 0----3----9----16---24
+gantt
+    SJF Non-Preemptive Scheduling
+    dateFormat 0----3----9----16---24
+    axisFormat 0----3----9----16---24
+    section Processes
+    P1 : 0, 2
+    P2 : 2, 4
+    P3 : 4, 5
+    P1 : 5, 7
+    P2 : 7, 8
 
 
 ```
